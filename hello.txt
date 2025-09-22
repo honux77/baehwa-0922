@@ -1,1 +1,4 @@
 hello world
+gugudan
+for 2 to 9
+print 2 * i
